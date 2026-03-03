@@ -67,7 +67,7 @@ const Footer = () => {
             <p className="text-primary-foreground/70 text-sm mb-3">
               Get updates on new items and offers.
             </p>
-            <div className="flex gap-2">
+            {/* <div className="flex gap-2">
               <input
                 type="email"
                 placeholder="Your email"
@@ -76,7 +76,7 @@ const Footer = () => {
               <button className="px-4 py-2 bg-accent text-accent-foreground rounded-lg text-sm font-semibold hover:bg-accent/90 transition-colors">
                 Join
               </button>
-            </div>
+            </div> */}
             <div className="flex gap-3 mt-4">
               <a href="#" className="w-9 h-9 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-accent hover:text-accent-foreground transition-colors">
                 <Instagram className="w-4 h-4" />

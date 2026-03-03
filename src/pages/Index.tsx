@@ -52,7 +52,7 @@ const Index = () => {
                 ))}
                 <Star className="w-5 h-5 fill-accent/40 text-accent" />
               </div>
-              <span className="text-primary-foreground/80 text-sm font-medium">4.1 · 929 reviews</span>
+              <span className="text-primary-foreground/80 text-sm font-medium">4.1 · 1500+ reviews</span>
             </div>
             <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-primary-foreground leading-tight">
               Freshly Baked{" "}
